@@ -1,6 +1,6 @@
 {
   "name": "@lernetz/create-lernmodule",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An initializer for a lernetz \"lernmodule\" project.",
   "main": "index.js",
   "bin": {
