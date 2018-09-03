@@ -1,0 +1,19 @@
+{
+  "name": "@lernetz/create-lernmodule",
+  "version": "0.0.1",
+  "description": "An initializer for a lernetz \"lernmodule\" project.",
+  "main": "index.js",
+  "scripts": {
+    "create-lernmodule":"node tasks/init.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lernetz/create-lernmodule.git"
+  },
+  "keywords": [
+    "initializer",
+    "lernetz"
+  ],
+  "author": "Michael Heimann",
+  "license": "MIT",
+}
